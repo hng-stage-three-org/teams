@@ -11,5 +11,6 @@ Leads:
 - Hurricane, [ooluseye16](https://github.com/ooluseye16) ([Tirioh](https://hngix.slack.com/team/U05R2RZJ5RC))
 - Jaguar, [HayWhyD](https://github.com/HaywhyD) ([Mavipop](https://hngix.slack.com/team/U05R3P80WCE))
 - Liquid, [RevEmmanuel](https://github.com/RevEmmanuel) ([Adeola Adekunle](https://hngix.slack.com/team/U05RB8C75NY))
+- Metal, [olagookundavid](https://github.com/olagookundavid)
 - Spitfire, [Freeman-kuch](https://github.com/Freeman-kuch) ([Freeman](https://hngix.slack.com/team/U05RVGERR8R))
 - Titans, [Ruthiejayjay](https://github.com/Ruthiejayjay) ([Ruthiejay](https://hngix.slack.com/team/U05R8FKMW10))
