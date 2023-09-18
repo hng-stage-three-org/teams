@@ -1,3 +1,5 @@
 # teams
 
-open an issue with you and your team name, and which app you're doing
+Leads:
+
+- [Jaguar](https://github.com/orgs/hngx-org/teams/jaguars), @HayWhyD
