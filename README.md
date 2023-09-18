@@ -9,6 +9,7 @@ Leads:
 - Fortress [olurocks](https://github.com/olurocks)
 - Giants, [oluwatobiloba1](https://github.com/oluwatobiloba1) ([Za_Genius1](https://hngix.slack.com/team/U05RH8R4ZGC))
 - Harpoon, [AirZED](https://github.com/AirZED) ([Mfonisoh1](https://hngix.slack.com/team/U05R9P3F6GJ))
+- Hawks, [backendbro](https://github.com/backendbro) ([backendbro](https://hngix.slack.com/team/U05RE3H68VA))
 - Hurricane, [ooluseye16](https://github.com/ooluseye16) ([Tirioh](https://hngix.slack.com/team/U05R2RZJ5RC))
 - Jaguars, [HayWhyD](https://github.com/HaywhyD) ([Mavipop](https://hngix.slack.com/team/U05R3P80WCE))
 - Lightning, [ExtranoDev](https://github.com/ExtranoDev), ([ExtranoDev](https://hngix.slack.com/team/U05RDF7F8DS))
