@@ -11,3 +11,4 @@ Leads:
 - Jaguar, [HayWhyD](https://github.com/HaywhyD) ([Mavipop](https://hngix.slack.com/team/U05R3P80WCE))
 - Liquid, [RevEmmanuel](https://github.com/RevEmmanuel) ([Adeola Adekunle](https://hngix.slack.com/team/U05RB8C75NY))
 - Spitfire, [Freeman-kuch](https://github.com/Freeman-kuch) ([Freeman](https://hngix.slack.com/team/U05RVGERR8R))
+- Titans, [Ruthiejayjay](https://github.com/Ruthiejayjay) ([Ruthiejay](https://hngix.slack.com/team/U05R8FKMW10))
