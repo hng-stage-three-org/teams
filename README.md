@@ -2,6 +2,7 @@
 
 Leads:
 
+- Caliban, [Badmusadeshewa](https://github.com/Badmusadeshewa) ([Adeshewa Badmus](https://hngix.slack.com/team/U05RR8FSURJ))
 - Demerzel, [obiMadu](https://github.com/obiMadu) ([Obi.M](https://hngix.slack.com/team/U05R98VHXC2))
 - Eagles, [Oluwashenor](https://github.com/Oluwashenor) ([Adesina](https://hngix.slack.com/team/U05R1QNRG5C))
 - Empire, [blacdev](https://github.com/blacdev) ([blac_dev](https://hngix.slack.com/team/U05QUDB118F))
