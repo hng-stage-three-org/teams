@@ -3,6 +3,7 @@
 Leads:
 
 - Caliban, [Badmusadeshewa](https://github.com/Badmusadeshewa) ([Adeshewa Badmus](https://hngix.slack.com/team/U05RR8FSURJ))
+- Commanders, [bintus-ux](https://github.com/bintus-ux) ([Bintus](https://hngix.slack.com/team/U05RDERK10C))
 - Demerzel, [obiMadu](https://github.com/obiMadu) ([Obi.M](https://hngix.slack.com/team/U05R98VHXC2))
 - Eagles, [Oluwashenor](https://github.com/Oluwashenor) ([Adesina](https://hngix.slack.com/team/U05R1QNRG5C))
 - Evolver, [joykangangi](https://github.com/joykangangi) ([Joy Kangangi](https://hngix.slack.com/team/U05RP1VRB33))
