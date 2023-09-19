@@ -22,3 +22,4 @@ Leads:
 - Piranha, [Mayor-Rhymes](https://github.com/Mayor-Rhymes) ([Olakunle Raheem](https://hngix.slack.com/team/U05R9AFAFB7))
 - Spitfire, [Freeman-kuch](https://github.com/Freeman-kuch) ([Freeman](https://hngix.slack.com/team/U05RVGERR8R))
 - Titans, [Ruthiejayjay](https://github.com/Ruthiejayjay) ([Ruthiejay](https://hngix.slack.com/team/U05R8FKMW10))
+- Vikings, [adesinak4](https://github.com/adesinak4) ([KisameHolmes](https://hngix.slack.com/team/U05RBKHMN94))
