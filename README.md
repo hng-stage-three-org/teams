@@ -6,7 +6,7 @@ Leads:
 - Commanders, [bintus-ux](https://github.com/bintus-ux) ([Bintus](https://hngix.slack.com/team/U05RDERK10C))
 - Demerzel, [obiMadu](https://github.com/obiMadu) ([Obi.M](https://hngix.slack.com/team/U05R98VHXC2))
 - Eagles, [Oluwashenor](https://github.com/Oluwashenor) ([Adesina](https://hngix.slack.com/team/U05R1QNRG5C))
-- Evolver, [joykangangi](https://github.com/joykangangi) ([Joy Kangangi](https://hngix.slack.com/team/U05RP1VRB33))
+- Evolver, [asahelcode](https://github.com/asahelcode) ([Gray](https://hngix.slack.com/team/U05REGA68JG))
 - Empire, [blacdev](https://github.com/blacdev) ([blac_dev](https://hngix.slack.com/team/U05QUDB118F))
 - Fortress [olurocks](https://github.com/olurocks)
 - Giants, [oluwatobiloba1](https://github.com/oluwatobiloba1) ([Za_Genius1](https://hngix.slack.com/team/U05RH8R4ZGC))
